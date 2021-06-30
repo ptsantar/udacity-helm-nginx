@@ -9,8 +9,7 @@ description: Testing Helm Charts with nginx-alpine deployment
 keywords:
 - nginx 
 ## The chart version
-version: 1.1.0
+version: 1.0.0
 ## List of maintainers, their names, and method of contact
 maintainers:
 - name: paris.tsantarliotis 
-  email: paris.tsantarliotis@xyz.com
